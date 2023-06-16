@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="work-computer.gif" alt="Alt Text" />
+  <img src="work-computer.gif" alt="Alt Text" width="1000" height="300"/>
 </div>
 
 # Hello, I'm Osama!

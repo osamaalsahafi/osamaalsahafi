@@ -26,9 +26,9 @@ For a complete list of my projects, please visit [my portfolio website](https://
 
 I'm always interested in connecting with fellow developers and professionals. Feel free to reach out to me through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/osama-alsahafi/)
-- [Twitter](https://twitter.com/iios_x)
-- [Email](alsahafiosama23@gmail.com)
+- **Linkedin**: [osama-alsahafi](https://www.linkedin.com/in/osama-alsahafi/)
+- **Twitter**: [@iios_x](https://twitter.com/iios_x)
+- **Email**: [alsahafiosama23@gmail.com](alsahafiosama23@gmail.com)
 
 ## Skills
 

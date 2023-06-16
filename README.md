@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm passionate about computers. Here, you'll find 
 
 Here are a few highlighted projects I've worked on:
 
-[**Project 1**] [SDP](https://github.com/witcherxz/SDP): Indoor localization and navigation system for autonomous robots.
+[**SDP**](https://github.com/witcherxz/SDP): Indoor localization and navigation system for autonomous robots.
 
-[**Project 2**] [SqueezNet](https://github.com/osamaalsahafi/Appling-transfer-learning-to-SqueezeNet-on-COVID-10-chest-XRAY-dataset): Appling-transfer-learning.
+[**SqueezNet**](https://github.com/osamaalsahafi/Appling-transfer-learning-to-SqueezeNet-on-COVID-10-chest-XRAY-dataset): Appling-transfer-learning.
 
 For a complete list of my projects, please visit [my portfolio website](https://github.com/osamaalsahafi?tab=repositories).
 

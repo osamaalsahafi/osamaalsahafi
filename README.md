@@ -4,7 +4,7 @@
   <img src="work-computer.gif" alt="Alt Text" />
 </div>
 
-Welcome to my GitHub profile! I'm passionate about computers. Here, you'll find a collection of my projects and contributions in Digital Design, AI, Robotics and Computer Vision. Feel free to explore and get inspired!
+Welcome to my GitHub profile! I'm passionate about computers. Here, you'll find a collection of my projects and contributions to Digital Design, AI, Robotics and Computer Vision. Feel free to explore and get inspired!
 ## About Me
 
 - 🌍 **Location**: Jeddah, Saudi Arabia
@@ -16,18 +16,18 @@ Welcome to my GitHub profile! I'm passionate about computers. Here, you'll find 
 
 Here are a few highlighted projects I've worked on:
 
-[**Project 1**]([link](https://github.com/witcherxz/SDP)): Indoor localization and navigation system for autonomous robots.
+[**Project 1**] [SDP](https://github.com/witcherxz/SDP): Indoor localization and navigation system for autonomous robots.
 
-[**Project 2**]([link](https://github.com/osamaalsahafi/Appling-transfer-learning-to-SqueezeNet-on-COVID-10-chest-XRAY-dataset)): Appling-transfer-learning.
+[**Project 2**] [SqueezNet](https://github.com/osamaalsahafi/Appling-transfer-learning-to-SqueezeNet-on-COVID-10-chest-XRAY-dataset): Appling-transfer-learning.
 
-For a complete list of my projects, please visit [my portfolio website](link).
+For a complete list of my projects, please visit [my portfolio website](https://github.com/osamaalsahafi?tab=repositories).
 
 ## Connect with Me
 
 I'm always interested in connecting with fellow developers and professionals. Feel free to reach out to me through the following channels:
 
-- [LinkedIn]([link](https://www.linkedin.com/in/osama-alsahafi/))
-- [Twitter]([link](https://twitter.com/iios_x))
+- [LinkedIn](https://www.linkedin.com/in/osama-alsahafi/)
+- [Twitter](https://twitter.com/iios_x)
 - [Email](alsahafiosama23@gmail.com)
 
 ## Skills

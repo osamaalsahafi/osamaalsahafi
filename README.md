@@ -1,8 +1,9 @@
-# Hello, I'm Osama!
-
 <div align="center">
   <img src="work-computer.gif" alt="Alt Text" />
 </div>
+
+# Hello, I'm Osama!
+
 
 Welcome to my GitHub profile! I'm passionate about computers. Here, you'll find a collection of my projects and contributions to Digital Design, AI, Robotics and Computer Vision. Feel free to explore and get inspired!
 ## About Me
